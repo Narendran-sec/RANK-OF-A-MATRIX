@@ -14,7 +14,7 @@ Assingng the input matrix
 End of the program
 ## Program:
 ```
-program to find the rank of a matrix
+#program to find the rank of a matrix
 #developed by: Narendran.k
 #reference number: 23013500
 import numpy as np
